@@ -24,3 +24,7 @@ Finally, I noticed that the new signature had a ForceNoNickname bool that might 
 I then pondered if it could also implement the required settings infra to allow the user the change the percent chances from 90% to anything so I asked it to implement a slider in the mod settings for that. It was mostly able to do this but was missing a small piece that I'm also chalking up to the changes since the AI was trained.
 
 It's kinda crazy how well it worked. Legit a tiny bit worried about my career now, but maybe I can switch gears to "AI magician" instead of software engineer...
+
+# Liscense 
+
+No idea what liscenses code generated using ChatGPT has, but this probably has that.
